@@ -1,0 +1,16 @@
+{
+    "name": "ColorGroup",
+    "alias": "colorgroup",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\ColorGroup\\Providers\\ColorGroupServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}
