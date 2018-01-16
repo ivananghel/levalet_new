@@ -167,7 +167,9 @@ return [
 	'last_name_required'					=> 'Last name required',
 	'email_required'						=> 'E - mail required',
 	'email_invalid'							=> 'E - mail invalid',
+	'Profile'								=> 'Profile',
+	'User Profile'							=> 'User Profile',
+	'Task Manager'							=> 'Task Manager',
+	'Order Desk'							=> 'Order Desk',
 
-
-	
 ];
