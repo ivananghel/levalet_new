@@ -50,11 +50,11 @@
                 </a>
             </li> -->
             
-            <!-- <li class="{{(isset($active_menu) && $active_menu == 'users') ? 'active' : '' }}">
+             <li class="{{(isset($active_menu) && $active_menu == 'users') ? 'active' : '' }}">
                 <a href="/users">
                     <i class="fa fa-lg fa-fw fa-users" aria-hidden="true"></i>
                     <span class="menu-item-parent"><strong>{{ trans('lang.users') }}</strong></span></a>
-                </li>  -->
+                </li> 
                 
                 <!-- <li class="">
                     <a href="#">
